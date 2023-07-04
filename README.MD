@@ -2,6 +2,8 @@
 
 node index.js --action list
 
+![alt text](https://github.com/Cryosphere/goit-node.js-hw-01-CLI-app/blob/main/pics/1.png?raw=true)
+
 # Получаем контакт по id - выводим в консоль объект контакта или null, если контакта с таким id не существует.
 
 node index.js --action get --id 05olLMgyVQdWRwgKfg5J6
