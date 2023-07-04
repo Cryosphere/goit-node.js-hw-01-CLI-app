@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DariaOskaOssowska/goit-node.js-hw-01-CLI-app.git"
+    "url": "git+https://github.com/Cryosphere/goit-node.js-hw-01-CLI-app.git"
   },
   "keywords": [
     "[]"
   ],
-  "author": "Daria Ośka-Ossowska",
+  "author": "Serhii Shmatok",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DariaOskaOssowska/goit-node.js-hw-01-CLI-app/issues"
+    "url": "https://github.com/Cryosphere/goit-node.js-hw-01-CLI-app/issues"
   },
-  "homepage": "https://github.com/DariaOskaOssowska/goit-node.js-hw-01-CLI-app#readme",
+  "homepage": "https://github.com/Cryosphere/goit-node.js-hw-01-CLI-app#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
